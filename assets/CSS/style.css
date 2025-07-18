@@ -44,7 +44,9 @@ a{
     color: aqua;
 }
 
-p{
+footer{
     background-color: rgb(5, 15, 15);
     margin-top: 20px;
+    color: white;
+    line-height: 50px;
 }

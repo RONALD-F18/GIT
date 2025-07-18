@@ -21,5 +21,30 @@ header {
     margin: px;
     text-align: center;
     line-height: 100px;
-    
+    color: white;
+    border-bottom: 3px dashed black;
+
+}
+
+
+nav{
+    background-color: blue;
+    height: 50px;
+    border: 1 px solid black;
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px ;
+    line-height:30px ;
+}
+
+a{
+    color: aqua;
+}
+
+p{
+    background-color: rgb(5, 15, 15);
+    margin-top: 20px;
 }
